@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Evain</h1>
+<h3 align="center">Frontend Developer | Web3 Builder</h3>
 
-<!--
-**EV-Ain/EV-Ain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building Web • Exploring Web3 • Shipping Products
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Frontend Developer
+- ⚡ Tech Stack: React / Vue / React Native
+- 🌐 Exploring Web3 & Blockchain
+- 🧠 Learning AI + Dev Tools
+- 🚀 Building cool products
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,tailwind,vite,docker,git" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- 🤖 AI Tools
+- ⚛️ React Ecosystem
+- 🌲 Web3 & Blockchain
+- 📱 Mobile Development (React Native / Expo)
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+GitHub
+</a>
+
+</p>
+
+---
+
+⭐️ From Evain
