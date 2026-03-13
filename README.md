@@ -11,8 +11,7 @@
 
 <img align="right" alt="coding" width="220" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
-Hi, I'm **EV-Ain** — Frontend Developer & Web3 Builder from China 🇨🇳
-
+Hi, I'm **EV-Ain** — Frontend Developer & Web3 Builder
 <br/>
 
 <img src="https://skillicons.dev/icons?i=react,ts,vue,nextjs,nodejs,solidity,git,docker&theme=dark&perline=8" />
